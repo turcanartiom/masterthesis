@@ -9,3 +9,4 @@ Supervisor: Prof. Dr. Thorsten Fröhlich
 
 Date of submission: 12.05.2025
 
+Hyperparameters: https://drive.google.com/drive/folders/1IUV10AauUOkz1AaLx5Obi-z4pAPEfQ4V
